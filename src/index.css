@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --base-green: #9ef01a;
+  --dark-green: #90d61f;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #fff;
+}
+
+#tasklist::-webkit-scrollbar {
+  /* display: none; */
+}
